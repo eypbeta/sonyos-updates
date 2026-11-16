@@ -4,7 +4,7 @@
     "version":  "1.1.0",
     "build":  "24H2.110",
     "title":  "2026-11 x64 Tabanlı Sistemler İçin SonyOS v1.1.0 Güncelleştirmesi (KB500101)",
-    "changelog":  "test",
+    "changelog":  "Masaüstü sağ tık menüsü sadeleştirilip saf Windows 11 görünümüne alındı; güncel sonyos_shell.dll ve sistem yamaları eklendi.",
     "mandatory":  true,
     "releaseDate":  "2026-11-16",
     "sha256":  "5534F0F34EAF01D5E58965BABDBB3117954BEDD478EA84B39D2C26119EB7845D",
