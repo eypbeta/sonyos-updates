@@ -7,6 +7,6 @@
     "changelog":  "test",
     "mandatory":  true,
     "releaseDate":  "2026-11-16",
-    "sha256":  "17FBB6A3192622E4B8F4376B14BA7F2A363292F53B5D4D3AA32E43585912C986",
+    "sha256":  "5534F0F34EAF01D5E58965BABDBB3117954BEDD478EA84B39D2C26119EB7845D",
     "downloadUrl":  "https://raw.githubusercontent.com/eypbeta/sonyos-updates/main/SonyOS_Update_v1.1.0.zip"
 }
