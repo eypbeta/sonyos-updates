@@ -1,0 +1,12 @@
+{
+    "osName":  "SonyOS Pro",
+    "kb":  "KB500101",
+    "version":  "1.1.0",
+    "build":  "24H2.110",
+    "title":  "2026-11 x64 Tabanlı Sistemler İçin SonyOS v1.1.0 Güncelleştirmesi (KB500101)",
+    "changelog":  "Sağ tık menüsü sadeleştirilip \u0027SonyOS Araçları\u0027 alt menüsüne toplandı; güncel sonyos_shell.dll ve sistem iyileştirmeleri eklendi.",
+    "mandatory":  true,
+    "releaseDate":  "2026-11-16",
+    "sha256":  "17FBB6A3192622E4B8F4376B14BA7F2A363292F53B5D4D3AA32E43585912C986",
+    "downloadUrl":  "https://raw.githubusercontent.com/eypbeta/sonyos-updates/main/SonyOS_Update_v1.1.0.zip"
+}
